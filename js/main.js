@@ -44,3 +44,5 @@ $( document ).ready(function() {
    $("input").focus(function() {
        $(".close-icon").addClass('visible');
    });
+    
+});
